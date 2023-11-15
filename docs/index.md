@@ -7,7 +7,7 @@ Current release (v1.2.0) supports following whisper models:
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper)@[0.9.0](https://github.com/guillaumekln/faster-whisper/releases/tag/v0.9.0)
 
 ## Quick Usage
-dfsdfsdfdsfsdfsdfsdfsdfsdfsdf
+
 === ":octicons-file-code-16: `CPU`"
 
     ```sh
